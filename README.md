@@ -1,4 +1,4 @@
-## Real-Time Stock Market Price Checker.md
+## Stocker: Real-Time Stock Market Price Checker
 
 **Built with:**
 
