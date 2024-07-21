@@ -1,7 +1,5 @@
 ## Real-Time Stock Market Price Checker.md
 
-This file is written in Markdown format (.md).
-
 **Built with:**
 
 * Django (Backend)
